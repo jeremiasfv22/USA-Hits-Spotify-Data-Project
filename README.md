@@ -10,7 +10,8 @@ This project hosts 4 Jupyter Notebooks for the following purposes:
 - 2) To analyze the data
 - 3) To model the data (with K-Means clustering)
 
-It also includes 3 Python script documents for the following purposes:
+It also includes 4 Python script documents for the following purposes:
 - To collect data (the same as Notebook 1a but in script form)
 - To update data (the same as Notebook 1b but in script form)
+- To store functions (to be called whenever the previously mentioned scripts are run)
 - To create a playlist of all songs that ever touched the top 50 on streaming in the USA! (something fun to look at!)
