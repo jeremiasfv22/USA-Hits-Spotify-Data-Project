@@ -5,8 +5,7 @@ Ever since 10 years old, I was fascinated by music charts such as the Billboard 
 This project aims to analyze the characteristics of hit songs and what styles of music does the general public prefer to listen to. It utilizes various Python packages such as gspread to connect Python with Google Sheets and spotipy which hosts Spotify's API data.
 
 This project hosts 4 Jupyter Notebooks for the following purposes:
-- 1a - To collect data
-- 1b - To update data (it takes a lot of time to run 1a and data updates weekly when new songs come out)
+- 1 - To collect data
 - 2 - To analyze the data
 - 3 - To model the data (with K-Means clustering)
 - 4 - To create a playlist of all the songs used for this project! 🥳 Something fun to look at/listen to!
