@@ -11,3 +11,5 @@ This project hosts 4 Jupyter Notebooks for the following purposes:
 - 4 - To create a playlist of all the songs used for this project! 🥳 Something fun to look at/listen to!
 
 *** In the far future, I plan on automating the data collection for every week since 2017, so that my resulting data can look exactly like the Google Sheet I have. The reason for this taking a while is because so many data entries in my Google Sheet are edited versions of what comes from HITS Daily Double. Sometimes HITS Daily Double has notable mistakes such as accidentally omitting a song from the charts one week but having it present the next. Luckily, HITS Daily Double also shows weekly changes in streams by percentage point to help correct these errors. 
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~jeremiasfv22/1.embed"></iframe>
