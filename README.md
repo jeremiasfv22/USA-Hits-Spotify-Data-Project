@@ -64,7 +64,12 @@ The four main types of songs that entered the top 50 since 2017 are:
 
 Example of songs in a cluster: ![Screenshot 2024-08-13 at 10 57 04 AM](https://github.com/user-attachments/assets/d13c79e0-6960-467d-8b01-73d84f199fb5)
 
-## **3. Playlist creation! 🥳**
+## **4. Playlist creation! 🥳**
 This portion of the project is a more relaxed endeavor, focused on creating a playlist from the songs analyzed throughout the project. The playlist features all the hit songs that charted in the top 50, providing an enjoyable listening experience that reflects the trends identified in the data analysis.
 Listen to the playlist [here](https://open.spotify.com/playlist/2fqpXYOyQG3q3HCaRjZitJ?si=9c248042f7f342d3)
 
+
+## **Future plans**
+1. Finish updating some of the graphs associated with the statistical/outlier detection analysis portion of the project (expected completion: end of August).
+2. Use a mixture of kworb.net data and Spotify data to gather data on the top 200 songs and replicate this analysis with Spotify-only data (expected completion: end of November).
+3. Draft write-ups for trends involving each metric analyzed.
