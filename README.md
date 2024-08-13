@@ -66,5 +66,5 @@ Example of songs in a cluster: ![Screenshot 2024-08-13 at 10 57 04 AM](https://g
 
 ## **3. Playlist creation! 🥳**
 This portion of the project is a more relaxed endeavor, focused on creating a playlist from the songs analyzed throughout the project. The playlist features all the hit songs that charted in the top 50, providing an enjoyable listening experience that reflects the trends identified in the data analysis.
-Listen to the playlist [here]([https://open.spotify.com/playlist/2fqpXYOyQG3q3HCaRjZitJ?si=9c248042f7f342d3])
+Listen to the playlist [here](https://open.spotify.com/playlist/2fqpXYOyQG3q3HCaRjZitJ?si=9c248042f7f342d3)
 
